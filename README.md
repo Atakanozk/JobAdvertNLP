@@ -1,5 +1,5 @@
 #Hi Folks! 
-Today I will tell you about the NLP model I have created. 
+#Today I will tell you about the NLP model I have created. 
 The data I am working on contain descriptions of about 18000 job postings, titles, company descriptions and similar information.
 The data also say whether the advertisements are real or not. 
 Before creating the model, I cleaned the texts. 
