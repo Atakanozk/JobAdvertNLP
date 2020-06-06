@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  6 15:09:28 2020
 
-@author: ataka
+"""
+@author: atakan
 """
 #Importing Libraries
 import pandas as pd
